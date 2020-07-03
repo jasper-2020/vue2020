@@ -1,9 +1,0 @@
-asdfasd
-<<<<<<< HEAD
-asdf asdfasdfasdf
-
-
-asdfasdf
-=======
-asdfasdf
->>>>>>> 7263507f5f4add479cc8bb9c836f934320fbb79a
